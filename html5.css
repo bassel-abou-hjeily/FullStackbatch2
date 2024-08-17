@@ -1,0 +1,84 @@
+.container1 {
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5% 15%;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.div2 {
+    border-radius: 100%;
+    background-color: blue;
+}
+
+.Biography {
+    background-color: rgb(200, 200, 200);
+    padding: 50px;
+
+}
+
+.span1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    list-style-type: lower-greek;
+}
+
+.contact {
+    background-color: pink;
+
+    width: 100%;
+
+
+    margin: 0 auto;
+
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"],
+input[type="email"],
+textarea,
+select {
+    width: 100%;
+
+    padding: 10px;
+
+    border: 1px solid #ccc;
+
+    box-sizing: border-box;
+    margin-bottom: 20px;
+
+}
+
+.divb {
+    background-color: rgb(68, 241, 255);
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+
+.divg {
+    background-color: rgb(120, 255, 120);
+    display: flex;
+    padding: 10px;
+    margin: 10px
+}
